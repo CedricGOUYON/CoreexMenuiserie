@@ -22,7 +22,7 @@ export default function HomePage() {
 						<a href="#contact" className="cx-btn-primary">
 							Demander un devis
 						</a>
-						<a href="#services" className="cx-btn-ghost-light">
+						<a href="#Savoir-faire" className="cx-btn-ghost-light">
 							Voir nos services →
 						</a>
 					</div>
